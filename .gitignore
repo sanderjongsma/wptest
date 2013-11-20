@@ -1,0 +1,7 @@
+# Crap
+.DS_Store
+
+# Composer
+composer.lock
+vendor/
+wp-content/vendor
