@@ -17,6 +17,7 @@
         "wpackagist/wordpress-seo":         "dev-master",
         "wpackagist/regenerate-thumbnails": "dev-master",
         "wpackagist/woosidebars":           "dev-master",
+        "gizburdt/wabbr":                   "dev-master",
         "gizburdt/scaffold":                "dev-master"
     },
     "repositories": [
@@ -46,6 +47,18 @@
                 "version": "dev-master",
                 "source": {
                     "url": "https://github.com/Gizburdt/Wordpress-Scaffold.git",
+                    "type": "git",
+                    "reference": "origin/master"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "gizburdt/wabbr",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/Gizburdt/Wordpress-Wabbr.git",
                     "type": "git",
                     "reference": "origin/master"
                 }
