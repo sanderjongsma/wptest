@@ -37,8 +37,8 @@
         "webroot-package":      "wordpress/wordpress"
     },
     "config": {
-        "vendor-dir": "wp-content/vendor",
-        "component-dir": "wp-content/vendor"
+        "vendor-dir":           "wp-content/themes/scaffold/vendor",
+        "component-dir":        "wp-content/themes/scaffold/vendor"
     },
     "repositories": [
         {
