@@ -35,6 +35,7 @@ define('DB_COLLATE', '');
 
 /** Change wp-content location */
 define( 'WP_CONTENT_DIR', dirname(__FILE__) . '/wp-content' );
+define( 'WP_CONTENT_URL', 'http://localhost/conductor/wp-content' );
 
 /**#@+
  * Authentication Unique Keys and Salts.
