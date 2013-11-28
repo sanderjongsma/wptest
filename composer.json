@@ -38,7 +38,7 @@
     },
     "config": {
         "vendor-dir":           "wp-content/vendor",
-        "component-dir":        "wp-content/themes"
+        "component-dir":        "wp-content/vendor"
     },
     "repositories": [
         {
