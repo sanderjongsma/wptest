@@ -5,6 +5,10 @@
 composer.lock
 vendor/
 wp-content/vendor
+wp-content/themes/scaffold/
 
 # Wordpress
 wordpress/
+
+# Codekit
+codekit-config.json
