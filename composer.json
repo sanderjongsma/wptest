@@ -19,6 +19,7 @@
         "wpackagist/woosidebars":           "dev-master",
         "gizburdt/wabbr":                   "dev-master",
         "gizburdt/scaffold":                "dev-master",
+        "gizburdt/scaffold-child":          "dev-master",
         "twbs/bootstrap":                   ">=3.0.2",
         "components/modernizr":             ">=2.6.2",
         "fancyapps/fancybox":               "dev-master",
@@ -62,6 +63,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/Gizburdt/Wordpress-Scaffold.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Gizburdt/Wordpress-Scaffold-Child.git"
         },
         {
             "type": "package",
