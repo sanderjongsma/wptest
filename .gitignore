@@ -6,6 +6,7 @@ composer.lock
 vendor/
 wp-content/vendor
 wp-content/themes/scaffold/
+wp-content/themes/scaffold-child/
 
 # Wordpress
 wordpress/
