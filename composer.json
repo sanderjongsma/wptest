@@ -21,7 +21,7 @@
         "gizburdt/wabbr":                               "dev-master",
         "gizburdt/scaffold":                            "dev-master",
         "gizburdt/scaffold-child":                      "dev-master",
-        "twbs/bootstrap":                               ">=3.0.2",
+        "twbs/bootstrap":                               ">=3.0.3",
         "components/modernizr":                         ">=2.6.2",
         "fancyapps/fancybox":                           "dev-master",
         "scottjehl/respond":                            "dev-master",
