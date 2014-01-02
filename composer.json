@@ -18,6 +18,7 @@
         "wpackagist/google-analytics-for-wordpress":    "dev-master",
         "wpackagist/regenerate-thumbnails":             "dev-master",
         "wpackagist/woosidebars":                       "dev-master",
+        "wpackagist/option-tree":                       "dev-master",
         "gizburdt/wabbr":                               "dev-master",
         "gizburdt/scaffold":                            "dev-master",
         "gizburdt/scaffold-child":                      "dev-master",
