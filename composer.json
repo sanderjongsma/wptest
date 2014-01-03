@@ -71,16 +71,8 @@
             "url": "https://github.com/Gizburdt/Wordpress-Scaffold-Child.git"
         },
         {
-            "type": "package",
-            "package": {
-                "name": "gizburdt/wabbr",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/Gizburdt/Wordpress-Wabbr.git",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+            "type": "vcs",
+            "url": "https://github.com/Gizburdt/Wordpress-Wabbr.git"
         },
         {
             "type": "package",
