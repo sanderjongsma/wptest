@@ -22,17 +22,9 @@
         "gizburdt/wabbr":                               "dev-master",
         "gizburdt/scaffold":                            "dev-master",
         "gizburdt/scaffold-child":                      "dev-master",
-        "twbs/bootstrap":                               ">=3.0.3",
-        "components/modernizr":                         ">=2.6.2",
-        "fancyapps/fancybox":                           "dev-master",
-        "scottjehl/respond":                            "dev-master",
-        "wickynilliams/enquire":                        "dev-master",
-        "davatron5000/fitvids":                         "dev-master",
-        "mudge/example":                                "dev-master",
-        "gilbitron/caroufredsel":                       "dev-master",
-        "mudge/example":                                "dev-master",
         "gizburdt/cuztom":                              "dev-master",
-        "gizburdt/equalsize":                           "dev-master"
+        "davatron5000/fitvids":                         "dev-master",
+        "mudge/example":                                "dev-master"
     },
      "extra": {
         "webroot-dir":          "wordpress",
@@ -63,52 +55,24 @@
             }
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/Gizburdt/Wordpress-Scaffold.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/Gizburdt/Wordpress-Scaffold-Child.git"
-        },
-        {
+            "name": "gizburdt/wabbr",
             "type": "vcs",
             "url": "https://github.com/Gizburdt/Wordpress-Wabbr.git"
         },
         {
-            "type": "package",
-            "package": {
-                "name": "fancyapps/fancybox",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/fancyapps/fancyBox.git",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+            "name": "gizburdt/scaffold",
+            "type": "vcs",
+            "url": "https://github.com/Gizburdt/Wordpress-Scaffold.git"
         },
         {
-            "type": "package",
-            "package": {
-                "name": "scottjehl/respond",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/scottjehl/Respond.git",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+            "name": "gizburdt/scaffold-child",
+            "type": "vcs",
+            "url": "https://github.com/Gizburdt/Wordpress-Scaffold-Child.git"
         },
         {
-            "type": "package",
-            "package": {
-                "name": "wickynilliams/enquire",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/WickyNilliams/enquire.js.git",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+            "name": "gizburdt/cuztom",
+            "type": "vcs",
+            "url": "https://github.com/Gizburdt/Wordpress-Cuztom-Helper.git"
         },
         {
             "type": "package",
@@ -133,26 +97,6 @@
                     "reference": "origin/master"
                 }
             }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "gilbitron/caroufredsel",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/gilbitron/carouFredSel.git",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/Gizburdt/Wordpress-Cuztom-Helper.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/Gizburdt/jQuery-equalSize.git"
         }
     ]
 }
