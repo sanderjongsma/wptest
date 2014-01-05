@@ -1,5 +1,5 @@
 {
-    "name": "gizburdt/conductor",
+    "name": "gizburdt/wordpress-conductor",
     "version": "0.1",
     "dependencies": {
         "fancybox":         "latest",

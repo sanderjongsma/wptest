@@ -1,5 +1,5 @@
 {
-    "name":                 "gizburdt/conductor",
+    "name":                 "gizburdt/wordpress-conductor",
     "type":                 "project",
     "authors": [
         {
@@ -26,7 +26,7 @@
         "davatron5000/fitvids":                         "dev-master",
         "mudge/example":                                "dev-master"
     },
-     "extra": {
+    "extra": {
         "webroot-dir":          "wordpress",
         "webroot-package":      "wordpress/wordpress"
     },
