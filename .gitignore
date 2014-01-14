@@ -12,5 +12,11 @@ wp-content/themes/scaffold/
 wp-content/themes/scaffold-child/
 wp-content/upgrade
 
+# Ghost
+!ghost/
+ghost/*
+!ghost/content
+!ghost/config.js
+
 # Codekit
 codekit-config.json
