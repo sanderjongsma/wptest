@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'conductor');
+define('DB_NAME', 'wptest');
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -35,7 +35,7 @@ define('DB_COLLATE', '');
 
 /** Change wp-content location */
 define( 'WP_CONTENT_DIR', dirname(__FILE__) . '/wp-content' );
-define( 'WP_CONTENT_URL', 'http://localhost/conductor/wp-content' );
+define( 'WP_CONTENT_URL', 'http://localhost/wptest/wp-content' );
 
 /**#@+
  * Authentication Unique Keys and Salts.

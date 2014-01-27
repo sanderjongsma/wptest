@@ -1,0 +1,15 @@
+//
+// UI
+// --------------------------------------------------
+
+.border-radius(@radius: @border-radius-base) {
+	.border-top-radius(@radius);
+	.border-bottom-radius(@radius);
+	border-radius: @radius;
+}
+
+.box-shadow(@shadow, @shadow2) {
+	-moz-box-shadow: @shadow, @shadow2;
+	-webkit-box-shadow: @shadow, @shadow2;
+	box-shadow: @shadow, @shadow2; 
+}
